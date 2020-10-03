@@ -1,2 +1,3 @@
 name: Test website
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
